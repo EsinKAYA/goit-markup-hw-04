@@ -218,6 +218,8 @@ body {
 }
 .sectwo-svg {
   color: #ffffff;
+  width: 64px;
+  height: 64px;
 
 }
 
@@ -441,6 +443,8 @@ body {
 }
 .footer-socials-icon{
   fill:#f4f4fd;
+  width: 24px;
+  height: 24px;
 }
 .footer-socials-link:hover{
   background-color: #31d0aa;
