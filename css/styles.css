@@ -309,8 +309,6 @@ body {
 }
 .social-svg {
   fill: #f4f4fd;
-  width: 16px;
-  height: 16px;
 }
 /*Portfolio*/
 .section-four {
@@ -440,8 +438,6 @@ body {
 }
 .footer-socials-icon{
   fill:#f4f4fd;
-  width: 24px;
-  height: 24px;
 }
 .footer-socials-link:hover{
   background-color: #31d0aa;
