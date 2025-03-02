@@ -50,6 +50,7 @@ body {
 }
 .header-top {
   display: flex;
+  align-items: center;
 }
 .container {
   width: 1158px;
@@ -59,6 +60,7 @@ body {
 .nav {
   display: flex;
   align-items: center;
+  flex-grow: 1;
 }
 .nav-ul {
   display: flex;
